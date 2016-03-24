@@ -41,9 +41,9 @@
             <default_setup>
                 <connection>
                     <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[rzuwfzfrjc]]></username>
-                    <password><![CDATA[aJ9n55MgvW]]></password>
-                    <dbname><![CDATA[rzuwfzfrjc]]></dbname>
+                    <username><![CDATA[adminrsNgJeq]]></username>
+                    <password><![CDATA[KZ99-1WzmFEu]]></password>
+                    <dbname><![CDATA[rosatrapo]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
